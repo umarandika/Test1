@@ -9,6 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // hallo saya dzaky
-        // halo saya umar
+
+
+        // rumah saya dibogor
+        // sekarang saya sedang di idn
     }
 }
